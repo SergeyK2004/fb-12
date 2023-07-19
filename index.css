@@ -30,3 +30,9 @@
 .main__information {
     margin-bottom: 20px;
 }
+
+.link {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
